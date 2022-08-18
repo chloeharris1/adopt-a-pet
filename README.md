@@ -20,15 +20,9 @@ This is a pet adoption website that allows users to view all the adoptable pets 
 
 * From the PetNotFound page, users can click “Go Back” button that will take them to page they were previously on.
 
+## App Link 
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Pet Lover | Find your perfect pet](https://adopt-a-pet-react-app.netlify.app)
 
 ## App Demo 
 ![screenshot](./adopt-a-pet.gif)
