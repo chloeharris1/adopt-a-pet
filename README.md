@@ -1,4 +1,4 @@
-# Adopt a Pet! 
+# Adopt a Pet! 🐾
 ![license badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description 
@@ -7,7 +7,10 @@ A project from Codecademy's Front End Engineer career path, using React Router t
 
 This is a pet adoption website that allows users to view all the adoptable pets of a particular species and view the profiles of specific adoptable pets.
 
-## Tasks
+## Built With: 
+![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+
+### Tasks
 * The HomePage component responds to the browser’s current URL by displaying only pets of the species the user wishes to view.
 
 * The PetDetailsPage page displays when the browser’s current URL includes a specific pet’s id.
