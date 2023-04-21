@@ -33,7 +33,7 @@ This is a pet adoption website that allows users to view all the adoptable pets 
 
 ## App Demo
 
-![screenshot](./adopt-a-pet.gif)
+![screenshot](./v5/adopt-a-pet.gif)
 
 ## License
 
