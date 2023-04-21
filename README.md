@@ -1,43 +1,46 @@
 # Adopt a Pet! 🐾
+
 ![license badge](https://img.shields.io/badge/license-MIT-blue)
 
-## Description 
+## Description
 
-A project from Codecademy's Front End Engineer career path, using React Router to add client-side routing to a React application. 
+A project from Codecademy's Front End Engineer career path, using React Router to add client-side routing to a React application.
 
 This is a pet adoption website that allows users to view all the adoptable pets of a particular species and view the profiles of specific adoptable pets.
 
-## Built With: 
-![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+## Built With
 
-### Tasks
-* The HomePage component responds to the browser’s current URL by displaying only pets of the species the user wishes to view.
+- React v17
+- React Router v5
 
-* The PetDetailsPage page displays when the browser’s current URL includes a specific pet’s id.
+### Functionality
 
-* The PetDetailsPage displays data for the correct pet based on the id in the URL parameters’ values.
+- The HomePage component responds to the browser’s current URL by displaying only pets of the species the user wishes to view.
 
-* When the user searches for a pet in the search bar, they are redirected to the SearchPage, which uses the query parameter called name to filter pets by name.
+- The PetDetailsPage page displays when the browser’s current URL includes a specific pet’s id.
 
-* When a user clicks a pet whose details are not available, they are redirected to a PetNotFoundPage.
+- The PetDetailsPage displays data for the correct pet based on the id in the URL parameters’ values.
 
-* From the PetNotFound page, users can click “Go Back” button that will take them to page they were previously on.
+- When the user searches for a pet in the search bar, they are redirected to the SearchPage, which uses the query parameter called name to filter pets by name.
 
-## App Link 
+- When a user clicks a pet whose details are not available, they are redirected to a PetNotFoundPage.
+
+- From the PetNotFound page, users can click “Go Back” button that will take them to page they were previously on.
+
+## App Link
 
 [Pet Lover | Find your perfect pet](https://adopt-a-pet-react-app.netlify.app)
 
-## App Demo 
+## App Demo
+
 ![screenshot](./adopt-a-pet.gif)
 
 ## License
+
 Licensed under the MIT license.
 
-## Questions 
+## Questions
+
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
 
 Check out more of my work on [GitHub](https://github.com/chloeharris1).
-
-
-
-
