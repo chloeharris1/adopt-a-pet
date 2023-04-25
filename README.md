@@ -10,8 +10,8 @@ This is a pet adoption website that allows users to view all the adoptable pets 
 
 ## Built With
 
-- React v17
-- React Router v5
+- React v18
+- React Router v6
 
 ### Functionality
 
